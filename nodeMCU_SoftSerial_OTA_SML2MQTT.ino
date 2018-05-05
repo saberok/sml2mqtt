@@ -1,8 +1,9 @@
 /*
    Program for isolating and publishing smartmeter sml messages to a mqtt broker by using a esp8266.
    Version 1 for nodeMCU or Adafruit Huzzah boards
-
-   @author Tim Abels <rollercontainer@googlemail.com>
+   forked from: rollercontainer/sml2mqtt
+   
+   @author Oliver Kleine <okleine1979@gmail.com>
    @see The GNU Public License (GPL)
 
    This program is free software; you can redistribute it and/or modify
